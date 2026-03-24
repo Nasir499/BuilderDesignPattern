@@ -1,4 +1,4 @@
-package org.example.BetterCode;
+package org.example.BetterCode.v2;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Objects;
