@@ -6,5 +6,6 @@ public class Main {
         b.setName("Kola");
         b.setPrice(24);
         Product p = new Product(b);
+        System.out.println(p);
     }
 }
